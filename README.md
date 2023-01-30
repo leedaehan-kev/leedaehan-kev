@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leedaehan-kev
 
-
-vorsprung durch technik
+- Vorsprung durch Technik
 
 <!---
 leedaehan-kev/leedaehan-kev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
