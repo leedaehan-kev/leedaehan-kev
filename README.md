@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Daehan Lee! 👋
 
-I'm a **[Your Job Title]** from **[Your Country]**, passionate about **[Field of Interest]**. I love working on open-source projects, developing innovative solutions, and learning new things!
+I'm a **System Developer** from **South Korea**, passionate about **AI system development**. I focus on building systems primarily for artificial intelligence, working on innovative solutions and open-source projects. I enjoy learning new technologies and contributing to the AI community!
 
 ### 🔧 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
@@ -11,7 +11,7 @@ I'm a **[Your Job Title]** from **[Your Country]**, passionate about **[Field of
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
 ### 📊 GitHub Stats:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Daehan Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
@@ -20,9 +20,10 @@ I'm a **[Your Job Title]** from **[Your Country]**, passionate about **[Field of
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
 
 ### 📫 How to reach me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourhandle)
+- Email: [kakooz@naver.com](mailto:kakooz@naver.com)
+
+### 🏆 Featured Project:
+- **4학년 탈모 진단 챗봇 프로젝트**: [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
 
 ---
 
