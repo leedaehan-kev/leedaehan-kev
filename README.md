@@ -10,14 +10,9 @@ I'm a **System Developer** from **South Korea**, passionate about **AI system de
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
-### 📊 GitHub Stats:
-![Daehan Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
-
-### 📈 Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
 
 ### 📫 How to reach me:
 - Email: [kakooz@naver.com](mailto:kakooz@naver.com)
