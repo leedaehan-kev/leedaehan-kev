@@ -1,14 +1,12 @@
 # Hello, I'm Daehan Lee! 👋
 
-I'm a **System Developer** from **South Korea**, passionate about **AI system development**. I focus on building systems primarily for artificial intelligence, working on innovative solutions and open-source projects. I enjoy learning new technologies and contributing to the AI community!
+I'm a **System Developer** from **South Korea**, passionate about **AI system development**. I focus on building systems primarily for artificial intelligence, working on innovative solutions and open-source projects.
 
 ### 🔧 Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+
 
 
 ### 🏆 GitHub Trophies:
@@ -19,6 +17,7 @@ I'm a **System Developer** from **South Korea**, passionate about **AI system de
 
 ### 🏆 Featured Project:
 - **4학년 탈모 진단 챗봇 프로젝트 최우수상**: [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
+- **2022 SW중심대학 AI 경진대회 본선 진출**: [GitHub Repository](https://github.com/leedaehan-kev/AI-QUALIFYING-ROUND)
 
 ---
 
