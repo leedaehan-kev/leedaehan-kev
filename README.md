@@ -18,7 +18,7 @@ I'm a **System Developer** from **South Korea**, passionate about **AI system de
 - Email: [kakooz@naver.com](mailto:kakooz@naver.com)
 
 ### 🏆 Featured Project:
-- **4학년 탈모 진단 챗봇 프로젝트**: [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
+- **4학년 탈모 진단 챗봇 프로젝트 최우수상**: [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
 
 ---
 
