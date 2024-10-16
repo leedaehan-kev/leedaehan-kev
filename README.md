@@ -17,7 +17,7 @@ I'm a **System Developer** from **South Korea**, passionate about **AI system de
   *Tech Stack:* Python, Kakao Platform, Keras  
   [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
   
-- **AI Competition Finalist Project** - *2022 SW 중심대학 AI 경진대회 본선 진출*  
+- **AI Competition Finalist Project** - *2022 SW 중심대학 AI 경진대회*  
   *Tech Stack:* Python, PyTorch  
   [GitHub Repository](https://github.com/leedaehan-kev/AI-QUALIFYING-ROUND)
   
@@ -38,10 +38,9 @@ I'm a **System Developer** from **South Korea**, passionate about **AI system de
 ### 🏅 Awards:
 - **2022 R&D Project Excellence Award** - Hair Loss Diagnosis Chatbot System
 - **2018 4th Industrial Revolution Software Competition Encouragement Award** - Autonomous Cleaning Robot
+- **2022 SW 중심대학 AI 경진대회 본선 진출**
 
 ---
 
 ### 📫 How to reach me:
 - Email: [kakooz@naver.com](mailto:kakooz@naver.com)
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=leedaehan-kev.leedaehan-kev)
