@@ -22,7 +22,7 @@ I'm a **AI and System Developer** from **South Korea**.
 - **Hair Loss Diagnosis Chatbot System** - *2022 R&D Project Excellence Award*  
   - **Description**: A chatbot system for hair loss diagnosis developed with advanced AI techniques.  
   - **Tech Stack**: Python, Kakao Platform, Keras  
-  - [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
+  - [GitHub Repository](https://github.com/leedaehan-kev/hairloss-chatbot)
 
 - **AI Competition Finalist Project** - *2022 SW 중심대학 AI 경진대회 Finalist (본선 진출)*  
   - **Description**: An AI model that reached the final stage in a competitive AI event.  
