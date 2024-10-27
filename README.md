@@ -17,15 +17,26 @@ I'm a **AI and System Developer** from **South Korea**.
 
 ---
 
-### 💼 Featured Projects:
+### 🚀 AI Projects:
 
 - **Hair Loss Diagnosis Chatbot System** - *2022 R&D Project Excellence Award*  
-  *Tech Stack:* Python, Kakao Platform, Keras  
-  [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
+  - **Description**: A chatbot system for hair loss diagnosis developed with advanced AI techniques.  
+  - **Tech Stack**: Python, Kakao Platform, Keras  
+  - [GitHub Repository](https://github.com/leedaehan-kev?tab=repositories)
 
-- **AI Competition Finalist Project** - *2022 SW 중심대학 AI 경진대회*  
-  *Tech Stack:* Python, PyTorch  
-  [GitHub Repository](https://github.com/leedaehan-kev/AI-QUALIFYING-ROUND)
+- **AI Competition Finalist Project** - *2022 SW 중심대학 AI 경진대회 Finalist*  
+  - **Description**: An AI model that reached the final stage in a competitive AI event.  
+  - **Tech Stack**: Python, PyTorch  
+  - [GitHub Repository](https://github.com/leedaehan-kev/AI-QUALIFYING-ROUND)
+
+- **Motorcycle Helmet Violation Detection System (AWS)**  
+  - **Description**: A system for detecting motorcycle helmet violations using AI on AWS.  
+  - **Tech Stack**: Python, Django, AWS  
+  - [Repository Link](https://github.com/leedaehan-kev/awsproject)
+
+---
+
+### 💼 Other Featured Projects:
 
 - **Nachos Operating System Implementation Project**  
   *Tech Stack:* C++  
@@ -34,10 +45,6 @@ I'm a **AI and System Developer** from **South Korea**.
 - **CliteCompiler Project**  
   *Tech Stack:* Java  
   [Repository Link](https://github.com/leedaehan-kev/CliteCompiler)
-
-- **Motorcycle Helmet Violation Detection System (AWS)**  
-  *Tech Stack:* Python, Django, AWS  
-  [Repository Link](https://github.com/leedaehan-kev/awsproject)
 
 ---
 
