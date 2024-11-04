@@ -61,8 +61,9 @@ I'm a **AI and System Developer** from **South Korea**.
 ### 🏅 Awards:
 
 - **2022 R&D Project Excellence Award** - Hair Loss Diagnosis Chatbot System
-- **2018 4th Industrial Revolution Software Competition Encouragement Award** - Autonomous Cleaning Robot
 - **2022 SW 중심대학 AI 경진대회 Finalist**
+- **2018 4th Industrial Revolution Software Competition Encouragement Award** - Autonomous Cleaning Robot
+
 
 ---
 
