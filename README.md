@@ -39,7 +39,7 @@ I'm a **AI and System Developer** from **South Korea**.
 ### 💼 Other Featured Projects:
 
 - **Nachos Operating System Implementation Project**  
-  *Tech Stack:* C++  
+  *Tech Stack:* Java 
   [Repository Link](https://github.com/leedaehan-kev?page=2&tab=repositories)
 
 - **CliteCompiler Project**  
